@@ -32,6 +32,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or suggestions, feel free to open an issue or contact me directly.
 
 Happy coding!
-```
-
-This README provides a clear overview of your project, including installation instructions, usage tips, and how others can contribute. Remember, a good README is crucial for open-source projects as it helps others understand and use your work effectively.
